@@ -1,6 +1,3 @@
-## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard-screenshot.png)
-
 ## 📌 Project Overview
 This Power BI project analyzes HR data to uncover the key drivers behind employee attrition. The interactive dashboard helps identify high-risk segments and provides data-backed insights for improving employee retention strategies.
 
