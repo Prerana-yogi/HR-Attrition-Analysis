@@ -1,7 +1,6 @@
-##HR Attrition Analysis Dashboard (Power BI)
-
-​Welcome to the updated version of the HR Attrition Analysis Dashboard! This project is built using Power BI for interactive data visualization and Power Query for robust data cleaning and transformation. The goal of this dashboard is to uncover critical insights into employee turnover patterns, workforce demographics, and key risk factors driving attrition within the organization.
-
+📊 HR Attrition Analysis Dashboard (Power BI)
+​Welcome to the updated version of the HR Attrition Analysis Dashboard! This project is built using Power BI for interactive data visualization and Power Query for robust data cleaning and transformation. The goal of this dashboard is to uncover critical insights into employee turnover patterns, workforce demographics, and key risk factors driving attrition within the organization.  
+​
 ##Tech Stack & Methodology
 ​Data Cleaning & Transformation: Power Query (M Language)
 ​Data Visualization & BI: Power BI Desktop
